@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Microsoft Assignment</title>
+  <link rel="stylesheet" href="microsoft.css" />
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="my_nav">
+    <div class="nav-left">
+<img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" />
+    <div id="first">Microsoft</div>
+    <div id="pipe">
+          <img src="https://static.thenounproject.com/png/645164-200.png" />
+    </div>
+    <div id="name">Microsoft 365</div>
+    <div id="design">Designer</div>
+      <div class="resource">Resources</div>
+      <div class="resource">More Microsoft 365</div>
+    </div>
+
+    <div class="nav-right">
+    <div class="resource">All Microsoft</div>
+    <div class="resource search_item">
+        Search <i class='bx bx-search'></i></div>
+      <div class="resource user_item">
+        <i class='bx bx-user'></i>
+    </div>
+          </div>
+     </div>
+</body>
+</html>
