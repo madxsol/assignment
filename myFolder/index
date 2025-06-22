@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="apple.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-icon"><i class="fa-brands fa-apple"></i></div>
+        <div class="navbar-item">Store</div>
+        <div class="navbar-item">Mac</div>
+        <div class="navbar-item">iPad</div>
+        <div class="navbar-item">iPhone</div>
+        <div class="navbar-item">Watch</div>
+        <div class="navbar-item">Airpods</div>
+        <div class="navbar-item">Tv & Home</div>
+        <div class="navbar-item">Entertainment</div>
+        <div class="navbar-item">Accessories</div>
+        <div class="navbar-item">Support</div>
+        <div class="navbar-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
+        <div class="navbar-icon"><i class="fa-solid fa-bag-shopping"></i></div>
+
+
+    </div>
+    <div class="section">
+        <div class="left-section">
+            <div class="overlay">
+                <div class="left-content">
+                    <h2 class="text">iPhone 16 Pro</h2>
+                    <h4 class="text">Apple Intelligence</h4>
+                    <h5 class="text">From ₹ 119000.00*</h5>
+                    <button>Buy</button>   
+                </div>
+            </div>
+        </div>
+        <div class="middle-section">
+            <div class="overlay">
+                <div class="middle-content">
+                    <h2 class="text">Apple Watch Pride Edition Sport Band</h2>
+                    <h4 class="text">Show your Stripes</h4>
+                    <h5 class="text">From ₹ 45000.00*</h5>
+                    <button>Buy</button>   
+                </div>
+            </div>
+        </div>        
+        <div class="right-section">
+             <div class="overlay">
+                <div class="right-content">
+                    <h2 class="text">Macbook Air </h2>
+                    <h4 class="text">Apple Intelligence</h4>
+                    <h5 class="text">From ₹ 99900.00*</h5>
+                    <button>Buy</button>   
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
